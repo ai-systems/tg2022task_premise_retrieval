@@ -46,7 +46,7 @@ The dataset is composed of training (5,519 instances), development (2,778 instan
 
 The goal of the shared task is to retrieve the set of relevant premises for a given statement in the test set by ranking the sentences contained in the supporting knowledge base.
 
-The **practice data** for the shared task is now available in the following folders:
+**The practice data for the shared task is now available!**
 
 1 - The knowledge base including the premises:
 
