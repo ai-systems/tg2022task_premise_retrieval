@@ -26,7 +26,7 @@ The task can be particularly challenging for existing Information Retrieval syst
 ## Important Dates
 
 * **2022-06-30: Training and development data release**
-* 2022-07-15: Test data release; Evaluation start
+* **2022-07-15: Test data release; Evaluation start**
 * 2022-08-10: Evaluation end
 * 2022-08-17: System description paper deadline
 * 2022-08-26: Deadline for reviews of system description papers
@@ -47,6 +47,8 @@ The dataset is composed of training (5,519 instances), development (2,778 instan
 The goal of the shared task is to retrieve the set of relevant premises for a given statement in the test set by ranking the sentences contained in the supporting knowledge base.
 
 **The practice data for the shared task is now available!**
+
+**The test set for the shared task (with masked premises) is now available!**
 
 1 - The knowledge base including the premises:
 
