@@ -68,6 +68,12 @@ The goal of the shared task is to retrieve the set of relevant premises for a gi
 ./data/dev_set.json
 ```
 
+3 - Test set (masked premises):
+
+```shell
+./data/test_set.json
+```
+
 Please, refer to the original dataset paper ([Ferreira et al., 2020a](https://aclanthology.org/2020.lrec-1.266/)) for additional details.
 
 ## Evaluation
