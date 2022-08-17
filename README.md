@@ -27,10 +27,10 @@ The task can be particularly challenging for existing Information Retrieval syst
 
 * **2022-06-30: Training and development data release**
 * **2022-07-15: Test data release; Evaluation start**
-* 2022-08-10: Evaluation end
-* 2022-08-17: System description paper deadline
-* 2022-08-26: Deadline for reviews of system description papers
-* 2022-08-28: Author notifications
+* 2022-08-27: Evaluation end
+* 2022-08-29: System description paper deadline
+* 2022-09-01: Deadline for reviews of system description papers
+* 2022-09-02: Author notifications
 * 2022-09-05: Camera-ready description paper deadline
 * 2022-10-16: [TextGraphs-16 workshop](https://sites.google.com/view/textgraphs2022/)
 
