@@ -3,7 +3,7 @@ TextGraphs-16 Shared Task on Natural Language Premise Selection
 
 We invite participation in the 1st Shared Task on Natural Language Premise Selection associated with the 16th Workshop on Graph-Based Natural Language Processing (TextGraphs 2022).
 
-All systems participating in the shared task will be invited to submit system description papers. Each system description paper will be peer-reviewed by (two) other participating teams and will be presented as a poster at the main workshop: https://sites.google.com/view/textgraphs2022/.
+All systems participating in the shared task will be invited to submit system description papers. Each system description paper will be presented as a poster at the main workshop: https://sites.google.com/view/textgraphs2022/.
 
 ## Overview
 
@@ -29,7 +29,6 @@ The task can be particularly challenging for existing Information Retrieval syst
 * **2022-07-15: Test data release; Evaluation start**
 * 2022-08-27: Evaluation end
 * 2022-08-29: System description paper deadline
-* 2022-09-01: Deadline for reviews of system description papers
 * 2022-09-02: Author notifications
 * 2022-09-05: Camera-ready description paper deadline
 * 2022-10-16: [TextGraphs-16 workshop](https://sites.google.com/view/textgraphs2022/)
