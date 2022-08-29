@@ -25,8 +25,8 @@ The task can be particularly challenging for existing Information Retrieval syst
 
 ## Important Dates
 
-* **2022-06-30: Training and development data release**
-* **2022-07-15: Test data release; Evaluation start**
+* 2022-06-30: Training and development data release
+* 2022-07-15: Test data release; Evaluation start
 * 2022-08-27: Evaluation end
 * 2022-08-29: System description paper deadline
 * 2022-09-02: Author notifications
